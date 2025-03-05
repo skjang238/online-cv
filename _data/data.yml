@@ -68,7 +68,8 @@ experiences:
 
 projects:
     title: Projects
-    intro: 
+    intro: |
+      Project Lists
     assignments:
       - title: PIM Compiler (2023~2024)
         link: "#hook"
