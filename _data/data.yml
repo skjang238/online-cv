@@ -60,19 +60,25 @@ education:
       details: |
 
 experiences:
-    - role: Engineer
+    - role: Digital Circuit Design Engineer
       time: 2021 - 2023
       company: Samsung Electronics, Republic of Korea
       details: |
-        Display Solutions (DDI)
+        Display Solutions - Display Driver IC: RTL logic design 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
-        level: 50%
+        level: 100%
+      
+      - name: SKILL language
+        level: 90%
 
+      - name: tcl, shell scripts
+        level: 70%
+      
       - name: Verilog
         level: 50%
 
