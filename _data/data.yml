@@ -78,6 +78,7 @@ projects:
 publications:
     title: Publications
     intro: |
+      Publication List
     papers:
       - title: LIBMixer: An all-MLP Architecture for Cell Library Characterization towards Design Space Optimization
         link: "#"
